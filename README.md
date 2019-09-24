@@ -40,7 +40,7 @@ Very few things are more important than talking to you if you want to talk to me
 
 ### Practices 
 
-- **Feedback** - Every quarter I will ask you to request feedback from at least two of your teammates on what you do well and area(s) of improvement. My goal is you gain honest feedback while forming a trust relationship with your team. My hope is you grow from the feedback you hear from this exercise before hearing it from me. At some point, I will ask you for feedback. Hearing your feedback will help me grow as well.
+- **Feedback** - Every quarter I will ask you to request feedback from at least two of your teammates on what you do well and area(s) of improvement. My goal is you gain honest feedback while forming a trusting relationship with your team. My hope is you grow from the feedback you hear through this exercise before hearing it from me. At some point, I will ask you for feedback. Your feedback will help me grow as well.
 
 
 - **Architecture Reviews** - As we strive to create the best solutions we will participate in Architecture Reviews. Roadmap and Design reviews can help us make informed decisions. I don't believe in calling all the shots so architecture decisions will be made as a team. Learn more about the Architecture Review Process [here](https://mozilla.github.io/firefox-browser-architecture/text/0006-architecture-review-process.html).
@@ -108,7 +108,7 @@ Very few things are more important than talking to you if you want to talk to me
 
 * **Snag me at my desk** - If it looks like "I'm in the zone", it doesn't mean I expect not to be interrupted. Feel free to grab my attention. I may ask for up to a minute to finish something I am working on, such as an email I'm writing. 
 
-* **Slack me** (@jennifer.choudhry). Even if you want in-person meeting, just message me to let me know. If you would rather talk about something over slack, that's fine too.
+* **Slack me** (@jennifer.choudhry). Even if you want an in-person meeting, just message me to let me know. If you would rather talk about something over slack, that's fine too.
  
 * **Throw something on my calendar** If you can't find time, reach out and I will make the time.
 
