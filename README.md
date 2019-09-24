@@ -42,7 +42,6 @@ Very few things are more important than talking to you if you want to talk to me
 
 - **Feedback** - Every quarter I will ask you to request feedback from at least two of your teammates on what you do well and area(s) of improvement. My goal is you gain honest feedback while forming a trusting relationship with your team. My hope is you grow from the feedback you hear through this exercise before hearing it from me. At some point, I will ask you for feedback. Your feedback will help me grow as well.
 
-
 - **Architecture Reviews** - As we strive to create the best solutions we will participate in Architecture Reviews. Roadmap and Design reviews can help us make informed decisions. I don't believe in calling all the shots so architecture decisions will be made as a team. Learn more about the Architecture Review Process [here](https://mozilla.github.io/firefox-browser-architecture/text/0006-architecture-review-process.html).
 
 ---
@@ -70,7 +69,7 @@ Very few things are more important than talking to you if you want to talk to me
 
 * **You’re very good at your job.** You wouldn’t be here if you weren’t. If it feels like I’m questioning you it’s because I’m either: a) Trying to gather context. Or b) Playing devil’s advocate.
 
-* **I’m not good at your job.** I consider my leadership style as visionary. You know best. I’ll work to provide necessary context and ask questions to help you vet your ideas but I won’t override you.
+* **I’m not good at your job.** I consider my leadership style as visionary. You know best. I’ll work to provide necessary context and ask questions to help you vet your ideas but I will rarely override you.
 
 * **You’ll let me know if you can’t do your job.** One of my main responsibilities is ensuring that you’re set up for success. Occasionally things slip through the cracks and I won’t know I’m letting you down.
 
