@@ -32,7 +32,7 @@ We'll have a 1:1 every other week for 30 mins. This meeting discusses topic of s
 
 ### Schedule
 
-I am typically in the office between 9:30AM and 5PM. On some days, I drop and pick up my dog from daycare. I may be online in the evening and may work from home a few times a month.
+I am typically in the office between 9:30AM and 5PM. On some days, I drop and pick up my dog from daycare. I may be online in the evening or early morning and may work from home a few times a month.
 
 Very few things are more important than talking to you if you want to talk to me. If you need to talk, let’s talk.
 
@@ -40,9 +40,9 @@ Very few things are more important than talking to you if you want to talk to me
 
 ### Practices 
 
-- **Feedback** - Every quarter I will ask you to request feedback from at least two of your teammates on what you do well and area(s) of improvement. My goal is you gain honest feedback while forming a trusting relationship with your team. My hope is you grow from the feedback you hear through this exercise before hearing it from me. At some point, I will ask you for feedback. Your feedback will help me grow as well.
+**Feedback** - Every quarter I will ask you to request feedback from two of your teammates on what you do well and area(s) of improvement. My goal is you gain honest feedback while forming a trusting relationship with your team. My hope is you grow from the feedback you hear through this exercise before hearing it from me. At some point I will ask you for feedback and it will help me grow as well.
 
-- **Architecture Reviews** - As we strive to create the best solutions we will participate in Architecture Reviews. Roadmap and Design reviews can help us make informed decisions. I don't believe in calling all the shots so architecture decisions will be made as a team. Learn more about the Architecture Review Process [here](https://mozilla.github.io/firefox-browser-architecture/text/0006-architecture-review-process.html).
+**Architecture Reviews** - We will strive to create the best solutions and in doing so we will participate in Architecture Reviews. Roadmap and Design reviews can help us make informed decisions. I don't believe in calling all the shots so architecture decisions will be made as a team. Learn more about the Architecture Review Process [here](https://mozilla.github.io/firefox-browser-architecture/text/0006-architecture-review-process.html).
 
 ---
 
@@ -110,6 +110,20 @@ Very few things are more important than talking to you if you want to talk to me
 * **Slack me** (@jennifer.choudhry). Even if you want an in-person meeting, just message me to let me know. If you would rather talk about something over slack, that's fine too.
  
 * **Throw something on my calendar** If you can't find time, reach out and I will make the time.
+
+---
+
+### My Reputation
+
+Throughout our careers we are each known for a handful of things. Here are some things I've been known for:
+
+- **Delivering** - Finding the gaps and doing what it takes to get the job done.
+
+- **Being creative** - I've participated in winning hackathon teams and used spare time for side projects that have been demoed to the CTO, I've been known for having an innovative side. 
+
+- **Building teams** - Using my agile experience and passion for understanding what makes great teams, I've taken teams from storming to norming quickly.
+
+What will you be known for?
 
 ---
 
